@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55f7e5ce-9417-4d29-af77-1c28843a1f48": {
+      "ProjectGuid": "55f7e5ce-9417-4d29-af77-1c28843a1f48",
+      "DisplayName": "InvestigateC++",
+      "ColorIndex": 0
+    },
+    "601ce31b-697c-4b44-8865-91bf7eab7a2e": {
+      "ProjectGuid": "601ce31b-697c-4b44-8865-91bf7eab7a2e",
+      "DisplayName": "Set_example",
+      "ColorIndex": 1
+    },
+    "6ca459a7-d881-4e5c-896e-a1602ae8c86c": {
+      "ProjectGuid": "6ca459a7-d881-4e5c-896e-a1602ae8c86c",
+      "DisplayName": "map_example",
+      "ColorIndex": 2
+    },
+    "7bc516a7-4a6e-4c54-8e90-0109dd7e0aca": {
+      "ProjectGuid": "7bc516a7-4a6e-4c54-8e90-0109dd7e0aca",
+      "DisplayName": "bitset_example",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
